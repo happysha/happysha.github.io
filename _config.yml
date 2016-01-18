@@ -1,0 +1,17 @@
+# Site settings
+title: 一周一博
+header-img: img/home-bg.jpg
+email: your-email@yourdomain.com
+description: "记录生活 - 总结收获 - 分享成长"
+baseurl: ""
+# twitter_username: SBootstrap
+# github_username:  davidtmiller
+# facebook_username:  IronSummitMedia
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+gems: ["jekyll-paginate"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
